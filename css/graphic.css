@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+.navbar		{
+				padding: .1rem;
+			}
+.navbar-nav li	{
+				font-family: Trebuchet MS;
+				font-weight:bold;
+				padding-right:10px;
+				}	
+.display-4 				{
+						font-size:200%;
+						}
+.col-12 h1			{
+					font-family: Square721 Cn BT;
+					}
+hr.light			{
+					border-top: 1px solid #333333;
+					width: 50%;
+					margin-top: .8rem;
+					margin-bottom: 1rem;
+					}
+.card img			{
+					filter: grayscale(100%);
+					transition: 1s;
+					}
+.card img:hover	{
+					filter: grayscale(0);
+					transform: scale(1.1);
+					}	
+footer				{
+					background-color: #3f3f3f;
+					color: #d5d5d5;
+					padding-top: 2rem;
+					}
+hr.light			{
+					border-top: 1px solid #CCCCCC;
+					width: 75%;
+					margin-top: .8rem;
+					margin-bottom: 1rem;
+					}
+footer a 			{
+					color: #d5d5d5;
+					}
+.card-body a		{
+						text-decoration:none;
+						font-weight:bold;
+						font-family: Trebuchet MS;
+						font-size:14px;
+						color:#000000;				
+					}
+
+
+
+
+
+
+
+
+
